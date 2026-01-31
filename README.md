@@ -1,18 +1,37 @@
 # Hi there, I'm Rohith Krishn! 👋
 
+---
+
 ## 🚀 About Me
-I'm an **AI/ML Enthusiast** and **Full-Stack Developer** from Hyderabad, India. Currently pursuing AI/ML internships while building practical Deep Learning, and Django frameworks full-stack applications. I'm passionate about leveraging technology to solve real-world problems. With expertise in Python for data analysis and machine learning.
+
+I'm an **AI/ML Enthusiast** and **Full-Stack Developer** from Hyderabad, India. Currently pursuing AI/ML internships while building practical applications with Deep Learning and Django frameworks. Passionate about leveraging technology to solve real-world problems with expertise in Python for data analysis and machine learning.
+
+---
 
 ## 💻 Tech Stack
-- **Frontend:** React.js, HTML5, CSS3, Styled Components
-- **Backend:** Node.js, Express, Firebase
-- **Languages:** Python (Primary - Data Science & ML), JavaScript, Java
-- **Tools:** Git, VS Code, Firebase, Internshala
-- **ML/DL Frameworks:** TensorFlow, Keras, Scikit-learn, PyTorch
-- **Backend Frameworks:** Django, REST API
-- **Python Data Science:** NumPy, Pandas, Matplotlib, Scikit-learn, SciPy
+
+### Frontend
+- React.js, HTML5, CSS3, Styled Components
+
+### Backend
+- Node.js, Express, Firebase, Django, REST APIs
+
+### Programming Languages
+- **Python** (Primary - Data Science & ML)
+- JavaScript
+- Java
+
+### Machine Learning & Deep Learning
+- TensorFlow, Keras, Scikit-learn, PyTorch
+- NumPy, Pandas, Matplotlib, SciPy
+
+### Tools & Platforms
+- Git, VS Code, Firebase, Internshala
+
+---
 
 ## 🎯 What I'm Currently Doing
+
 - 🔍 Exploring **AI/ML opportunities** through internships
 - 📚 Learning **advanced backend development** & cloud services
 - 🧠 Mastering **Machine Learning & Deep Learning** with TensorFlow & Keras
@@ -20,33 +39,73 @@ I'm an **AI/ML Enthusiast** and **Full-Stack Developer** from Hyderabad, India. 
 - 🚀 Building **ML applications** with Django and TensorFlow
 - 🌐 Working on **web development** projects for clients
 
+---
+
 ## 📊 GitHub Stats
+
 [![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithkumar0219&show_icons=true&theme=dark)](https://github.com/rohithkumar0219)
 
-## 🤝 Let's Connect
-- **LinkedIn:** [rohith-kumar](https://www.linkedin.com/in/rohith-kumar-511117354)
-- **Email:** rohithkumar0219@gmail.com
-- **Location:** Hyderabad, Telangana, India
+---
+
+## 🤖 Machine Learning & AI Expertise
+
+### Specialization
+Deep Learning, Neural Networks, Natural Language Processing (NLP)
+
+### Frameworks & Libraries
+- TensorFlow, Keras, Scikit-learn, Pandas
+- NumPy, Matplotlib, OpenCV, SciPy
+
+### Techniques
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- Model Optimization
+
+### Application Areas
+- Building ML models
+- Data preprocessing & feature engineering
+- Model evaluation & optimization
+
+---
+
+## 👀📇 Python Data Science Expertise
+
+### Core Libraries
+- **NumPy** - Array operations, numerical computing
+- **Pandas** - DataFrames, data cleaning, transformation
+
+### Data Visualization
+- **Matplotlib** - Plots, charts, data visualization
+- **Seaborn** - Statistical visualization
+
+### Machine Learning
+- **Scikit-learn** - Supervised/unsupervised learning, model evaluation
+- **SciPy** - Scientific computing, statistical analysis
+
+### Proficiency Areas
+- Data preprocessing & cleaning
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Statistical analysis
+- Model building & evaluation
+
+---
 
 ## 📈 Fun Facts
+
 - Part of **The Hacking School** - An In-Campus Coding Bootcamp
 - Enthusiast of clean code and best practices
 - Always eager to learn and collaborate on interesting projects
 
-## 🤖 Machine Learning & AI
-- **Specialization:** Deep Learning, Neural Networks, NLP
-- **Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas
-- **Libraries:** NumPy, Matplotlib, OpenCV
-- **Techniques:** Supervised Learning, Unsupervised Learning, Reinforcement Learning
-- **Projects:** Building ML models, Data preprocessing, Model optimization
+---
 
-## 👀📇 Python Data Science Expertise
-- **Core Libraries:** NumPy (array operations, numerical computing)
-- **Data Manipulation:** Pandas (DataFrames, data cleaning, transformation)
-- **Visualization:** Matplotlib (plots, charts, data visualization)
-- **Machine Learning:** Scikit-learn (supervised/unsupervised learning, model evaluation)
-- **Statistical Analysis:** SciPy, Statistics
-- **Proficiency:** Data preprocessing, EDA, Feature engineering, Model building
+## 🤝 Let's Connect
+
+- **LinkedIn:** [rohith-kumar](https://www.linkedin.com/in/rohith-kumar-511117354)
+- **Email:** [rohithkumar0219@gmail.com](mailto:rohithkumar0219@gmail.com)
+- **Location:** Hyderabad, Telangana, India
 
 ---
-💡 *Open to opportunities in AI/ML, Full-Stack Development, and Freelance Projects*
+
+💡 **Open to opportunities in AI/ML, Full-Stack Development, and Freelance Projects**
