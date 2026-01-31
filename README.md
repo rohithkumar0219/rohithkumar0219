@@ -1,4 +1,4 @@
-# Hi there, I'm Rohith Krishn! 👋
+# Hi there, I'm Rohith Kumar! 👋
 
 ---
 
