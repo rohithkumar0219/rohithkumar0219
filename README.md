@@ -41,12 +41,6 @@ I'm an **AI/ML Enthusiast** and **Full-Stack Developer** from Hyderabad, India. 
 
 ---
 
-## 📊 GitHub Stats
-
-[![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithkumar0219&show_icons=true&theme=dark)](https://github.com/rohithkumar0219)
-
----
-
 ## 🤖 Machine Learning & AI Expertise
 
 ### Specialization
